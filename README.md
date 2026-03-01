@@ -1,4 +1,4 @@
-# GE-CG-Assigment
+
 
 
 
@@ -52,9 +52,3 @@ Developed as a coursework project for the Computer Graphics module, **Rasterizer
 5. Build the solution (`Ctrl + Shift + B`).
 6. Run the project (`F5` or `Ctrl + F5`) to launch the playable level.
 
-## 🎓 Author & Course Information
-
-* **Author:** Linlang Zou 
-* **Course:** Computer Graphics
-* **Institution:** University of Warwick
-* **Date:** December 2025
