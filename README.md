@@ -1,8 +1,9 @@
 
+<img width="907" height="494" alt="ss" src="https://github.com/user-attachments/assets/10d32544-0c29-411b-b97f-8fcb0c30a6b7" />
 
 
 
-https://github.com/user-attachments/assets/f1e977ce-34dc-49a1-819d-755b356a8d03
+
 # Rasterizer
 
 > A custom DirectX 12 3D game engine featuring skeletal animation, data-driven asset loading, and interactive gameplay mechanics.
@@ -28,6 +29,11 @@ Developed as a coursework project for the Computer Graphics module, **Rasterizer
 * **First-Person Camera:** Interactive camera with robust Axis-Aligned Bounding Box (AABB) collision detection against the environment.
 * **Combat Mechanics:** Ray-hit intersection detection for first-person weapon shooting.
 * **Entity State Machine:** Simple AI entity states driving enemy behavior (e.g., a dinosaur capable of chase, attack, and death states).
+  
+## 🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/f1e977ce-34dc-49a1-819d-755b356a8d03
 
 ## 🛠 Tech Stack
 
